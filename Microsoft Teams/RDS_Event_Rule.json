@@ -1,0 +1,17 @@
+{
+  "source": [
+    "aws.rds"
+  ],
+  "detail-type": [
+    "RDS State-change Notification"
+  ],
+  "detail": {
+    "eventSource": [
+      "rds.amazonaws.com"
+    ],
+    "eventName": [
+      "StartDBInstance",
+      "CreateDBInstance"
+    ]
+  }
+}
