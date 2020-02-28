@@ -3,7 +3,7 @@
     "aws.rds"
   ],
   "detail-type": [
-    "RDS State-change Notification"
+    "AWS API Call via CloudTrail"
   ],
   "detail": {
     "eventSource": [
