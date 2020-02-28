@@ -1,4 +1,4 @@
-<h1> AWS Lambda to Send EC2 and RDS startup alerts to Microsoft Teams via a webhook <h1>
+# AWS Lambda to Send EC2 and RDS startup alerts to Microsoft Teams via a webhook
 
 
 Required steps:
