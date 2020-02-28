@@ -11,3 +11,5 @@ Required steps:
    3. Add Lambda MS Teams.py as the main Lambda function. Add a second python file called accounts.py for account information.
 3. Enable CloudTrail for Lambda api's, selecting the Lambda just created. Create an S3 bucket on creation of CloudTrail setup.
 4. Add two CloudWatch Event Rules for RDS and EC2. Use the two Event pattern json files to create. Under Targets, use the drop down to    select required SNS. Make sure the configure input is set to "Matched event".
+
+NOTE: All Lambda's in Python 3.8
